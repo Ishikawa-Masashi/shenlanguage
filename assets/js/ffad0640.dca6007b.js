@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchakra_ui_docs=self.webpackChunkchakra_ui_docs||[]).push([[6811],{24275:i=>{i.exports=JSON.parse('{"label":"formik","permalink":"/tags/formik","allTagsPath":"/tags","count":1,"items":[{"id":"integrations/with-formik","title":"Chakra UI + Formik","description":"Integrating Chakra UI with Formik","permalink":"/integrations/with-formik"}]}')}}]);

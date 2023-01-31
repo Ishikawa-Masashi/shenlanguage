@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchakra_ui_docs=self.webpackChunkchakra_ui_docs||[]).push([[8570],{9739:e=>{e.exports=JSON.parse('{"label":"meteor","permalink":"/tags/meteor","allTagsPath":"/tags","count":1,"items":[{"id":"frameworks/meteor-guide","title":"Meteor","description":"A guide for installing Chakra UI with meteor projects","permalink":"/frameworks/meteor-guide"}]}')}}]);
