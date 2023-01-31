@@ -1,0 +1,76 @@
+{
+  "name": "chakra-ui-docs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "yarn css && docusaurus build --no-minify",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "typecheck": "tsc",
+    "css": "panda",
+    "css:watch": "panda --watch",
+    "postinstall": "yarn css"
+  },
+  "dependencies": {
+    "@algolia/client-search": "^4.14.2",
+    "@chakra-ui/icons": "^2.0.11",
+    "@chakra-ui/props-docs": "^2.0.23",
+    "@chakra-ui/react": "2.3.7",
+    "@codesandbox/sandpack-react": "^1.17.0",
+    "@codesandbox/sandpack-themes": "^1.17.0",
+    "@docusaurus/core": "^2.2.0",
+    "@docusaurus/plugin-client-redirects": "^2.2.0",
+    "@docusaurus/plugin-content-pages": "^2.3.0",
+    "@docusaurus/preset-classic": "^2.2.0",
+    "@docusaurus/theme-classic": "^2.2.0",
+    "@docusaurus/theme-live-codeblock": "^2.2.0",
+    "@emotion/cache": "^11.10.5",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@emotion/weak-memoize": "^0.3.0",
+    "@mdx-js/react": "^1.6.22",
+    "@monaco-editor/react": "^4.4.6",
+    "clsx": "^1.2.1",
+    "formik": "^2.2.9",
+    "framer-motion": "^7.6.4",
+    "prism-react-renderer": "^1.3.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-frame-component": "^5.2.3",
+    "react-icons": "^4.6.0",
+    "react-lorem-component": "^0.13.0",
+    "react-player": "^2.11.0",
+    "react-spinners": "^0.13.6",
+    "react-table": "^7.8.0"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.18.6",
+    "@docusaurus/module-type-aliases": "^2.2.0",
+    "@tsconfig/docusaurus": "^1.0.6",
+    "@types/react": "18.0.24",
+    "@types/react-dom": "18.0.8",
+    "css-panda": "^0.0.0-dev-20221112054627",
+    "typescript": "^4.8.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "engines": {
+    "node": ">=16.14"
+  }
+}

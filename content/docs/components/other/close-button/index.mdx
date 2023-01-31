@@ -1,0 +1,41 @@
+# Close Button
+
+CloseButton is essentially a button with a close icon. It is used to trigger
+close functionality in components.
+
+<ComponentLinks
+  github={{ package: "close-button" }}
+  npm={{ package: "@chakra-ui/close-button" }}
+  theme={{ componentName: "close-button" }}
+/>
+
+## Import
+
+```js
+import { CloseButton } from "@chakra-ui/react";
+```
+
+## Usage
+
+```jsx live
+<CloseButton />
+```
+
+### Button Size
+
+Pass the `size` prop to adjust the size of the close button. Values can be `sm`,
+`md` or `lg`.
+
+```jsx live
+<Stack direction="row" spacing={6}>
+  <CloseButton size="sm" />
+  <CloseButton size="md" />
+  <CloseButton size="lg" />
+</Stack>
+```
+
+## Props
+
+The CloseButton composes `Box` component.
+
+<PropsTable of="CloseButton" />

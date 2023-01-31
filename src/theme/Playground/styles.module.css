@@ -1,0 +1,29 @@
+.playgroundContainer {
+  margin-bottom: var(--ifm-leading);
+  border-radius: var(--ifm-global-radius);
+  border: 1px solid var(--ifm-color-gray-200);
+  box-shadow: var(--ifm-global-shadow-lw);
+  overflow: hidden;
+}
+
+.playgroundEditor {
+  font: var(--ifm-code-font-size) / var(--ifm-pre-line-height)
+    var(--ifm-font-family-monospace) !important;
+  /* rtl:ignore */
+  direction: ltr;
+}
+
+.playgroundPreview {
+  padding: 1rem;
+  background-color: var(--ifm-pre-background);
+}
+
+.playgroundHeader {
+  padding: 1rem;
+  font: var(--ifm-code-font-size) / var(--ifm-pre-line-height)
+    var(--ifm-font-family-monospace) !important;
+  border-bottom: 1px solid;
+  background-color: rgb(40, 42, 54);
+  border-color: var(--ifm-color-gray-800);
+  color: white;
+}
