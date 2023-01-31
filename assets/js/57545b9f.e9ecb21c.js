@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkchakra_ui_docs=self.webpackChunkchakra_ui_docs||[]).push([[7068],{91262:t=>{t.exports=JSON.parse('{"label":"getting-started","permalink":"/tags/getting-started","allTagsPath":"/tags","count":1,"items":[{"id":"index","title":"Installation","description":"How to install and set up Chakra UI in your project","permalink":"/"}]}')}}]);

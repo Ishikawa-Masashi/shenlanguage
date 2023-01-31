@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkchakra_ui_docs=self.webpackChunkchakra_ui_docs||[]).push([[5275],{84182:e=>{e.exports=JSON.parse('{"permalink":"/changelog/page/9","page":9,"postsPerPage":1,"totalPages":20,"totalCount":20,"previousPage":"/changelog/page/8","nextPage":"/changelog/page/10","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
