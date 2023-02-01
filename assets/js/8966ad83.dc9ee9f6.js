@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchakra_ui_docs=self.webpackChunkchakra_ui_docs||[]).push([[2558],{27578:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"getting-started"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchakra_ui_docs=self.webpackChunkchakra_ui_docs||[]).push([[3410],{56891:a=>{a.exports=JSON.parse('{"label":"migration","permalink":"/tags/migration","allTagsPath":"/tags","count":1,"items":[{"id":"migration","title":"Upgrading to v2","description":"How to upgrade your existing Chakra UI projects to v2.0","permalink":"/migration"}]}')}}]);

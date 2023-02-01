@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Chakra UI Blog</title>
-        <link>https://chakra-ui.com/shenlanguage/changelog</link>
+        <link>https://chakra-ui.com/changelog</link>
         <description>Chakra UI Blog</description>
-        <lastBuildDate>Tue, 31 Jan 2023 03:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 23:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Version 2.0.1]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.0.1</link>
+            <link>https://chakra-ui.com/changelog/v2.0.1</link>
             <guid>/v2.0.1</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.0.1. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="storybook-addon201"><a href="mailto:storybook-addon@2.0.1" target="_blank" rel="noopener noreferrer">storybook-addon@2.0.1</a><a class="hash-link" href="#storybook-addon201" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes">Patch Changes<a class="hash-link" href="#patch-changes" title="Direct link to heading">​</a></h3><ul><li>Updated dependencies</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uicheckbox201">@chakra-ui/<a href="mailto:checkbox@2.0.1" target="_blank" rel="noopener noreferrer">checkbox@2.0.1</a><a class="hash-link" href="#chakra-uicheckbox201" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes-1">Patch Changes<a class="hash-link" href="#patch-changes-1" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/commit/7eaf538a4db9e168408e114f80a2c2898cf4fd47" target="_blank" rel="noopener noreferrer"><code>7eaf538a4</code></a>
 Thanks <a href="https://github.com/segunadebayo" target="_blank" rel="noopener noreferrer">@segunadebayo</a>! - Fix issue where
@@ -45,9 +45,9 @@ toast's default variant to <code>solid</code></p></li><li><p>Updated dependencie
         </item>
         <item>
             <title><![CDATA[Version 2.0.2]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.0.2</link>
+            <link>https://chakra-ui.com/changelog/v2.0.2</link>
             <guid>/v2.0.2</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.0.2. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="storybook-addon202"><a href="mailto:storybook-addon@2.0.2" target="_blank" rel="noopener noreferrer">storybook-addon@2.0.2</a><a class="hash-link" href="#storybook-addon202" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes">Patch Changes<a class="hash-link" href="#patch-changes" title="Direct link to heading">​</a></h3><ul><li>Updated dependencies</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uicolor-mode202">@chakra-ui/<a href="mailto:color-mode@2.0.2" target="_blank" rel="noopener noreferrer">color-mode@2.0.2</a><a class="hash-link" href="#chakra-uicolor-mode202" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes-1">Patch Changes<a class="hash-link" href="#patch-changes-1" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/commit/a9727167c9529f5512717ccf162fdeefe37c5d8f" target="_blank" rel="noopener noreferrer"><code>a9727167c</code></a>
 Thanks <a href="https://github.com/segunadebayo" target="_blank" rel="noopener noreferrer">@segunadebayo</a>! - Fix return value of
@@ -56,9 +56,9 @@ color mode script</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="ch
         </item>
         <item>
             <title><![CDATA[Version 2.1.0]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.1.0</link>
+            <link>https://chakra-ui.com/changelog/v2.1.0</link>
             <guid>/v2.1.0</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.1.0. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uireact210">@chakra-ui/<a href="mailto:react@2.1.0" target="_blank" rel="noopener noreferrer">react@2.1.0</a><a class="hash-link" href="#chakra-uireact210" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="minor-changes">Minor Changes<a class="hash-link" href="#minor-changes" title="Direct link to heading">​</a></h3><ul><li><p><a href="https://github.com/chakra-ui/chakra-ui/pull/6050" target="_blank" rel="noopener noreferrer">#6050</a>
 <a href="https://github.com/chakra-ui/chakra-ui/commit/ddea8d143e76c0e4758e6ea4b4d881f88b34452d" target="_blank" rel="noopener noreferrer"><code>ddea8d143</code></a>
@@ -150,9 +150,9 @@ default toast position. It now defaults to <code>bottom</code> as described in d
         </item>
         <item>
             <title><![CDATA[Version 2.1.1]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.1.1</link>
+            <link>https://chakra-ui.com/changelog/v2.1.1</link>
             <guid>/v2.1.1</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.1.1. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="storybook-addon204"><a href="mailto:storybook-addon@2.0.4" target="_blank" rel="noopener noreferrer">storybook-addon@2.0.4</a><a class="hash-link" href="#storybook-addon204" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes">Patch Changes<a class="hash-link" href="#patch-changes" title="Direct link to heading">​</a></h3><ul><li>Updated dependencies</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uiaccordion202">@chakra-ui/<a href="mailto:accordion@2.0.2" target="_blank" rel="noopener noreferrer">accordion@2.0.2</a><a class="hash-link" href="#chakra-uiaccordion202" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes-1">Patch Changes<a class="hash-link" href="#patch-changes-1" title="Direct link to heading">​</a></h3><ul><li>Updated dependencies
 <!-- -->[<a href="https://github.com/chakra-ui/chakra-ui/commit/f77e3c98f72fa17353e9fdad4c51810e83d9cb1c" target="_blank" rel="noopener noreferrer"><code>f77e3c98f</code></a>,
@@ -305,9 +305,9 @@ packages and fix ts error</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7
         </item>
         <item>
             <title><![CDATA[Version 2.1.2]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.1.2</link>
+            <link>https://chakra-ui.com/changelog/v2.1.2</link>
             <guid>/v2.1.2</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.1.2. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="storybook-addon205"><a href="mailto:storybook-addon@2.0.5" target="_blank" rel="noopener noreferrer">storybook-addon@2.0.5</a><a class="hash-link" href="#storybook-addon205" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes">Patch Changes<a class="hash-link" href="#patch-changes" title="Direct link to heading">​</a></h3><ul><li>Updated dependencies</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uireact212">@chakra-ui/<a href="mailto:react@2.1.2" target="_blank" rel="noopener noreferrer">react@2.1.2</a><a class="hash-link" href="#chakra-uireact212" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes-1">Patch Changes<a class="hash-link" href="#patch-changes-1" title="Direct link to heading">​</a></h3><ul><li>Updated dependencies
 <!-- -->[<a href="https://github.com/chakra-ui/chakra-ui/commit/5dd3c85345872f789cf82009167b69896f789731" target="_blank" rel="noopener noreferrer"><code>5dd3c8534</code></a>]</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uitoast205">@chakra-ui/<a href="mailto:toast@2.0.5" target="_blank" rel="noopener noreferrer">toast@2.0.5</a><a class="hash-link" href="#chakra-uitoast205" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes-2">Patch Changes<a class="hash-link" href="#patch-changes-2" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/pull/6097" target="_blank" rel="noopener noreferrer">#6097</a><a href="https://github.com/chakra-ui/chakra-ui/commit/5dd3c85345872f789cf82009167b69896f789731" target="_blank" rel="noopener noreferrer"><code>5dd3c8534</code></a>
@@ -316,9 +316,9 @@ Thanks <a href="https://github.com/itkrt2y" target="_blank" rel="noopener norefe
         </item>
         <item>
             <title><![CDATA[Version 2.2.0]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.2.0</link>
+            <link>https://chakra-ui.com/changelog/v2.2.0</link>
             <guid>/v2.2.0</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.2.0. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uicheckbox210">@chakra-ui/<a href="mailto:checkbox@2.1.0" target="_blank" rel="noopener noreferrer">checkbox@2.1.0</a><a class="hash-link" href="#chakra-uicheckbox210" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="minor-changes">Minor Changes<a class="hash-link" href="#minor-changes" title="Direct link to heading">​</a></h3><ul><li><p><a href="https://github.com/chakra-ui/chakra-ui/pull/6153" target="_blank" rel="noopener noreferrer">#6153</a>
 <a href="https://github.com/chakra-ui/chakra-ui/commit/bcbfcbcceebe6749d0e8fe6ebddb566121fdff25" target="_blank" rel="noopener noreferrer"><code>bcbfcbcce</code></a>
@@ -682,9 +682,9 @@ to resolve deps issues</p></li><li><p>Updated dependencies
         </item>
         <item>
             <title><![CDATA[Version 2.2.1]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.2.1</link>
+            <link>https://chakra-ui.com/changelog/v2.2.1</link>
             <guid>/v2.2.1</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.2.1. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uitoast210">@chakra-ui/<a href="mailto:toast@2.1.0" target="_blank" rel="noopener noreferrer">toast@2.1.0</a><a class="hash-link" href="#chakra-uitoast210" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="minor-changes">Minor Changes<a class="hash-link" href="#minor-changes" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/pull/6159" target="_blank" rel="noopener noreferrer">#6159</a><a href="https://github.com/chakra-ui/chakra-ui/commit/54acea27baf8a8ac4a9f5346d95fe6aecda92f74" target="_blank" rel="noopener noreferrer"><code>54acea27b</code></a>
 Thanks <a href="https://github.com/segunadebayo" target="_blank" rel="noopener noreferrer">@segunadebayo</a>! - - Add support for
@@ -700,9 +700,9 @@ where useStyles and StylesProvider was removed from <code>@chakra-ui/system</cod
         </item>
         <item>
             <title><![CDATA[Version 2.2.2]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.2.2</link>
+            <link>https://chakra-ui.com/changelog/v2.2.2</link>
             <guid>/v2.2.2</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.2.2. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uicolor-mode210">@chakra-ui/<a href="mailto:color-mode@2.1.0" target="_blank" rel="noopener noreferrer">color-mode@2.1.0</a><a class="hash-link" href="#chakra-uicolor-mode210" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="minor-changes">Minor Changes<a class="hash-link" href="#minor-changes" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/pull/6167" target="_blank" rel="noopener noreferrer">#6167</a><a href="https://github.com/chakra-ui/chakra-ui/commit/bd2683306db6af272c43982ecd947182bde8b727" target="_blank" rel="noopener noreferrer"><code>bd2683306</code></a>
 Thanks <a href="https://github.com/ianmcdaniel" target="_blank" rel="noopener noreferrer">@ianmcdaniel</a>! - Check if the
@@ -785,9 +785,9 @@ to lodash throttle dependency</p></li></ul><h2 class="anchor anchorWithStickyNav
         </item>
         <item>
             <title><![CDATA[Version 2.2.3]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.2.3</link>
+            <link>https://chakra-ui.com/changelog/v2.2.3</link>
             <guid>/v2.2.3</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.2.3. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uilayout210">@chakra-ui/<a href="mailto:layout@2.1.0" target="_blank" rel="noopener noreferrer">layout@2.1.0</a><a class="hash-link" href="#chakra-uilayout210" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="minor-changes">Minor Changes<a class="hash-link" href="#minor-changes" title="Direct link to heading">​</a></h3><ul><li><p><a href="https://github.com/chakra-ui/chakra-ui/commit/7789194552404db8fe576c4d82ccfd0b940dd401" target="_blank" rel="noopener noreferrer"><code>778919455</code></a>
 Thanks <a href="https://github.com/segunadebayo" target="_blank" rel="noopener noreferrer">@segunadebayo</a>! - Add new highlight
@@ -1018,9 +1018,9 @@ Thanks <a href="https://github.com/itkrt2y" target="_blank" rel="noopener norefe
         </item>
         <item>
             <title><![CDATA[Version 2.2.4]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.2.4</link>
+            <link>https://chakra-ui.com/changelog/v2.2.4</link>
             <guid>/v2.2.4</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.2.4. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uimedia-query320">@chakra-ui/<a href="mailto:media-query@3.2.0" target="_blank" rel="noopener noreferrer">media-query@3.2.0</a><a class="hash-link" href="#chakra-uimedia-query320" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="minor-changes">Minor Changes<a class="hash-link" href="#minor-changes" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/pull/6308" target="_blank" rel="noopener noreferrer">#6308</a><a href="https://github.com/chakra-ui/chakra-ui/commit/4beff94be65026ddb1d8c06c9e96f9eae195f352" target="_blank" rel="noopener noreferrer"><code>4beff94be</code></a>
 Thanks <a href="https://github.com/n-harada" target="_blank" rel="noopener noreferrer">@n-harada</a>! - fix getClosestValue to
@@ -1112,9 +1112,9 @@ suspense</p></li><li><p>Updated dependencies</p></li></ul><h2 class="anchor anch
         </item>
         <item>
             <title><![CDATA[Version 2.2.5]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.2.5</link>
+            <link>https://chakra-ui.com/changelog/v2.2.5</link>
             <guid>/v2.2.5</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.2.5. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-storybook-addon2011"><a href="mailto:chakra-storybook-addon@2.0.11" target="_blank" rel="noopener noreferrer">chakra-storybook-addon@2.0.11</a><a class="hash-link" href="#chakra-storybook-addon2011" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes">Patch Changes<a class="hash-link" href="#patch-changes" title="Direct link to heading">​</a></h3><ul><li>Updated dependencies
 <!-- -->[<a href="https://github.com/chakra-ui/chakra-ui/commit/1839e22ebad1c2a52795eac5fd0b3eb38ae03f9c" target="_blank" rel="noopener noreferrer"><code>1839e22eb</code></a>]</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uiaccordion207">@chakra-ui/<a href="mailto:accordion@2.0.7" target="_blank" rel="noopener noreferrer">accordion@2.0.7</a><a class="hash-link" href="#chakra-uiaccordion207" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes-1">Patch Changes<a class="hash-link" href="#patch-changes-1" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/pull/6356" target="_blank" rel="noopener noreferrer">#6356</a><a href="https://github.com/chakra-ui/chakra-ui/commit/1839e22ebad1c2a52795eac5fd0b3eb38ae03f9c" target="_blank" rel="noopener noreferrer"><code>1839e22eb</code></a>
@@ -1338,9 +1338,9 @@ Thanks <a href="https://github.com/itkrt2y" target="_blank" rel="noopener norefe
         </item>
         <item>
             <title><![CDATA[Version 2.2.7]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.2.7</link>
+            <link>https://chakra-ui.com/changelog/v2.2.7</link>
             <guid>/v2.2.7</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.2.7. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-storybook-addon2013"><a href="mailto:chakra-storybook-addon@2.0.13" target="_blank" rel="noopener noreferrer">chakra-storybook-addon@2.0.13</a><a class="hash-link" href="#chakra-storybook-addon2013" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes">Patch Changes<a class="hash-link" href="#patch-changes" title="Direct link to heading">​</a></h3><ul><li>Updated dependencies
 <!-- -->[<a href="https://github.com/chakra-ui/chakra-ui/commit/3dc27e05e97a1320c4400de6a03feb787160eafb" target="_blank" rel="noopener noreferrer"><code>3dc27e05e</code></a>]</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uireact-context201">@chakra-ui/<a href="mailto:react-context@2.0.1" target="_blank" rel="noopener noreferrer">react-context@2.0.1</a><a class="hash-link" href="#chakra-uireact-context201" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes-1">Patch Changes<a class="hash-link" href="#patch-changes-1" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/pull/6458" target="_blank" rel="noopener noreferrer">#6458</a><a href="https://github.com/chakra-ui/chakra-ui/commit/70872f2c2254186bbcc1964897fe660eb1c1b010" target="_blank" rel="noopener noreferrer"><code>70872f2c2</code></a>
@@ -1569,9 +1569,9 @@ Thanks <a href="https://github.com/segunadebayo" target="_blank" rel="noopener n
         </item>
         <item>
             <title><![CDATA[Version 2.2.9]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.2.9</link>
+            <link>https://chakra-ui.com/changelog/v2.2.9</link>
             <guid>/v2.2.9</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.2.9. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uitabs210">@chakra-ui/<a href="mailto:tabs@2.1.0" target="_blank" rel="noopener noreferrer">tabs@2.1.0</a><a class="hash-link" href="#chakra-uitabs210" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="minor-changes">Minor Changes<a class="hash-link" href="#minor-changes" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/pull/6541" target="_blank" rel="noopener noreferrer">#6541</a><a href="https://github.com/chakra-ui/chakra-ui/commit/35b416761841da30194b8967d72049a27d78d099" target="_blank" rel="noopener noreferrer"><code>35b416761</code></a>
 Thanks <a href="https://github.com/segunadebayo" target="_blank" rel="noopener noreferrer">@segunadebayo</a>! - Allow wrapping tab
@@ -1838,9 +1838,9 @@ react hooks<ul><li>Refactor all packages to reduce bundle size</li><li>Refactor 
         </item>
         <item>
             <title><![CDATA[Version 2.3.0]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.3.0</link>
+            <link>https://chakra-ui.com/changelog/v2.3.0</link>
             <guid>/v2.3.0</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.3.0. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uiavatar210">@chakra-ui/<a href="mailto:avatar@2.1.0" target="_blank" rel="noopener noreferrer">avatar@2.1.0</a><a class="hash-link" href="#chakra-uiavatar210" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="minor-changes">Minor Changes<a class="hash-link" href="#minor-changes" title="Direct link to heading">​</a></h3><ul><li><p><a href="https://github.com/chakra-ui/chakra-ui/commit/e8f634e0d56a9d994aa139c7a36add3d30ede11f" target="_blank" rel="noopener noreferrer"><code>e8f634e0d</code></a>
 Thanks <a href="https://github.com/segunadebayo" target="_blank" rel="noopener noreferrer">@segunadebayo</a>! - Add support for
@@ -1940,9 +1940,9 @@ Thanks <a href="https://github.com/itkrt2y" target="_blank" rel="noopener norefe
         </item>
         <item>
             <title><![CDATA[Version 2.3.1]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.3.1</link>
+            <link>https://chakra-ui.com/changelog/v2.3.1</link>
             <guid>/v2.3.1</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.3.1. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uicss-reset207">@chakra-ui/<a href="mailto:css-reset@2.0.7" target="_blank" rel="noopener noreferrer">css-reset@2.0.7</a><a class="hash-link" href="#chakra-uicss-reset207" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes">Patch Changes<a class="hash-link" href="#patch-changes" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/commit/cc0598ddcb2a4e7f84859099556c228c5ff354fe" target="_blank" rel="noopener noreferrer"><code>cc0598ddc</code></a>
 Thanks <a href="https://github.com/segunadebayo" target="_blank" rel="noopener noreferrer">@segunadebayo</a>! - Fix css in 100vh
@@ -1968,9 +1968,9 @@ height values to <code>$100vh</code> instead of <code>100vh</code>.</p><div clas
         </item>
         <item>
             <title><![CDATA[Version 2.3.2]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.3.2</link>
+            <link>https://chakra-ui.com/changelog/v2.3.2</link>
             <guid>/v2.3.2</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.3.2. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uireact232">@chakra-ui/<a href="mailto:react@2.3.2" target="_blank" rel="noopener noreferrer">react@2.3.2</a><a class="hash-link" href="#chakra-uireact232" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes">Patch Changes<a class="hash-link" href="#patch-changes" title="Direct link to heading">​</a></h3><ul><li>Updated dependencies
 <!-- -->[<a href="https://github.com/chakra-ui/chakra-ui/commit/7d7e04d53d871e324debe0a2cb3ff44d7dbf3bca" target="_blank" rel="noopener noreferrer"><code>7d7e04d53</code></a>]</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uitheme2111">@chakra-ui/<a href="mailto:theme@2.1.11" target="_blank" rel="noopener noreferrer">theme@2.1.11</a><a class="hash-link" href="#chakra-uitheme2111" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes-1">Patch Changes<a class="hash-link" href="#patch-changes-1" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/pull/6605" target="_blank" rel="noopener noreferrer">#6605</a><a href="https://github.com/chakra-ui/chakra-ui/commit/7d7e04d53d871e324debe0a2cb3ff44d7dbf3bca" target="_blank" rel="noopener noreferrer"><code>7d7e04d53</code></a>
@@ -1980,9 +1980,9 @@ Thanks <a href="https://github.com/yjkwon07" target="_blank" rel="noopener noref
         </item>
         <item>
             <title><![CDATA[Version 2.3.3]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.3.3</link>
+            <link>https://chakra-ui.com/changelog/v2.3.3</link>
             <guid>/v2.3.3</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.3.3. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uiaccordion210">@chakra-ui/<a href="mailto:accordion@2.1.0" target="_blank" rel="noopener noreferrer">accordion@2.1.0</a><a class="hash-link" href="#chakra-uiaccordion210" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="minor-changes">Minor Changes<a class="hash-link" href="#minor-changes" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/pull/6679" target="_blank" rel="noopener noreferrer">#6679</a><a href="https://github.com/chakra-ui/chakra-ui/commit/1b89467f6a1dae072e16884431d898497fa2e571" target="_blank" rel="noopener noreferrer"><code>1b89467f6</code></a>
 Thanks <a href="https://github.com/segunadebayo" target="_blank" rel="noopener noreferrer">@segunadebayo</a>! - Allow control of
@@ -2295,9 +2295,9 @@ This is useful when an editable element is wrapped within
         </item>
         <item>
             <title><![CDATA[Version 2.3.4]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.3.4</link>
+            <link>https://chakra-ui.com/changelog/v2.3.4</link>
             <guid>/v2.3.4</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.3.4. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uieditable2011">@chakra-ui/<a href="mailto:editable@2.0.11" target="_blank" rel="noopener noreferrer">editable@2.0.11</a><a class="hash-link" href="#chakra-uieditable2011" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="patch-changes">Patch Changes<a class="hash-link" href="#patch-changes" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/commit/d5003f91650ade8b4045df8c23be8e8c9ebe288a" target="_blank" rel="noopener noreferrer"><code>d5003f916</code></a>
 Thanks <a href="https://github.com/segunadebayo" target="_blank" rel="noopener noreferrer">@segunadebayo</a>! - Fix issue where
@@ -2314,9 +2314,9 @@ Thanks <a href="https://github.com/segunadebayo" target="_blank" rel="noopener n
         </item>
         <item>
             <title><![CDATA[Version 2.3.5]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.3.5</link>
+            <link>https://chakra-ui.com/changelog/v2.3.5</link>
             <guid>/v2.3.5</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.3.5. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uitooltip220">@chakra-ui/<a href="mailto:tooltip@2.2.0" target="_blank" rel="noopener noreferrer">tooltip@2.2.0</a><a class="hash-link" href="#chakra-uitooltip220" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="minor-changes">Minor Changes<a class="hash-link" href="#minor-changes" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/pull/6721" target="_blank" rel="noopener noreferrer">#6721</a><a href="https://github.com/chakra-ui/chakra-ui/commit/15c86d5d655a349a8ecb802c51d7ee243902833d" target="_blank" rel="noopener noreferrer"><code>15c86d5d6</code></a>
 Thanks <a href="https://github.com/anubra266" target="_blank" rel="noopener noreferrer">@anubra266</a>! - Added <code>closeOnScroll</code>
@@ -2779,9 +2779,9 @@ args when colorScheme is not supported by component</p></li><li><p>Updated depen
         </item>
         <item>
             <title><![CDATA[Version 2.3.6]]></title>
-            <link>https://chakra-ui.com/shenlanguage/changelog/v2.3.6</link>
+            <link>https://chakra-ui.com/changelog/v2.3.6</link>
             <guid>/v2.3.6</guid>
-            <pubDate>Tue, 31 Jan 2023 03:19:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 23:17:33 GMT</pubDate>
             <description><![CDATA[Explore the changelog for Chakra UI version 2.3.6. Learn about the latest features, bug fixes, and improvements.]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chakra-uiavatar220">@chakra-ui/<a href="mailto:avatar@2.2.0" target="_blank" rel="noopener noreferrer">avatar@2.2.0</a><a class="hash-link" href="#chakra-uiavatar220" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="minor-changes">Minor Changes<a class="hash-link" href="#minor-changes" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/chakra-ui/chakra-ui/commit/4d20e161cc171331a5ab94b9b581edb6c2c117f1" target="_blank" rel="noopener noreferrer"><code>4d20e161c</code></a>
 Thanks <a href="https://github.com/segunadebayo" target="_blank" rel="noopener noreferrer">@segunadebayo</a>! - Make the avatar
