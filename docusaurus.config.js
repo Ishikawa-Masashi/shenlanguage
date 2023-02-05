@@ -10,10 +10,13 @@ const config = {
   title: "Chakra UI",
   tagline: "Dinosaurs are cool",
   url: "https://chakra-ui.com",
-  baseUrl: "/",
+  baseUrl: "/shenlanguage/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
+  organizationName: "ishikawa-masashi", // Usually your GitHub org/user name.
+  projectName: "shenlanguage", // Usually your repo name.
+  deploymentBranch: "gh-pages",
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -32,7 +35,7 @@ const config = {
       navbar: {
         logo: {
           alt: "Chakra UI Logo",
-          src: "img/logo.svg",
+          src: "img/logo2.svg",
           srcDark: "img/logo-dark.svg",
         },
         items: [
@@ -76,7 +79,7 @@ const config = {
             label: "Community",
           },
           { to: "/changelog", label: "Changelog", position: "left" },
-          { to: "/helloReact", label: "PLAYGROUND", position: "left" },
+          { to: "/helloReact", label: "Playground", position: "left" },
           {
             position: "right",
             // @ts-ignore
@@ -131,8 +134,19 @@ const config = {
       "@docusaurus/plugin-content-docs",
       {
         id: "getting-started",
-        routeBasePath: "/",
+        routeBasePath: "/getting-started",
         path: "./content/getting-started",
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
+        exclude: ["**/**.example.mdx"],
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "home",
+        routeBasePath: "/",
+        path: "./content/home",
         showLastUpdateAuthor: true,
         showLastUpdateTime: true,
         exclude: ["**/**.example.mdx"],

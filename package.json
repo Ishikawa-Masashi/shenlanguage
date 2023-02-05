@@ -1,6 +1,6 @@
 {
   "name": "chakra-ui-docs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -34,6 +34,7 @@
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "@emotion/weak-memoize": "^0.3.0",
+    "@ishikawa-masashi/shenscript": "^0.1.2",
     "@mdx-js/react": "^1.6.22",
     "@monaco-editor/react": "^4.4.6",
     "clsx": "^1.2.1",
